@@ -1,0 +1,14 @@
+name = "More Crafting Tables!"
+filename = "[1.20.1] More Crafting Tables Forge 5.1.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/tJGIwFnx/versions/SBwG4Fmh/%5B1.20.1%5D More Crafting Tables Forge 5.1.0.jar"
+hash-format = "sha512"
+hash = "1f5fce252118aeefc99b10bdc35f6beff3eea9f6f3f695db0d9e264df7bdbfdeb65ce6afaa7f0e16b2bc7b373398e9a43335ae7f0cb1f6a4dcd0eadc473d7348"
+
+[update]
+[update.modrinth]
+mod-id = "tJGIwFnx"
+version = "SBwG4Fmh"

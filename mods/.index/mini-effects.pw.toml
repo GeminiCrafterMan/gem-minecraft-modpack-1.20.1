@@ -1,0 +1,14 @@
+name = "Mini Effects"
+filename = "MiniEffects-1.20.1-forge-7.0.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/UqcThEX0/versions/dRAaA2ec/MiniEffects-1.20.1-forge-7.0.1.jar"
+hash-format = "sha512"
+hash = "3037dfe6c02856bf1da9ac6a0b3db226bd27c1a0c2787a10ee114fe8cedae13231105819fd64dba8f6f3959a362ae66095fa69cce2e61a029e4404b4c3d00b69"
+
+[update]
+[update.modrinth]
+mod-id = "UqcThEX0"
+version = "dRAaA2ec"

@@ -1,0 +1,14 @@
+name = "Cooked carrots"
+filename = "cookedcarrots-1.20.1-7-forge.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/Bl3JrwOb/versions/tuzAwjpd/cookedcarrots-1.20.1-7-forge.jar"
+hash-format = "sha512"
+hash = "67f04ec4a099757745c45102948c9d627acb15f19e0f2e08eba3d26c71afd48027fb08e5acbdac5b0b069e01d3813be4c87203db0816c2dd78abe16f65442591"
+
+[update]
+[update.modrinth]
+mod-id = "Bl3JrwOb"
+version = "tuzAwjpd"

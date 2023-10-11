@@ -1,0 +1,14 @@
+name = "Koremods"
+filename = "koremods-modlauncher-1.0.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/EWmBPx3X/versions/gp2GmHYK/koremods-modlauncher-1.0.0.jar"
+hash-format = "sha512"
+hash = "3c9a851df83f7a84ffaba2c2debde0b979d30d67e474dd1b94022a5d33d61d2b32b3921655e4e3d352919f219ccae2ab25ede8c6aac856726fe087e1d2c63d2e"
+
+[update]
+[update.modrinth]
+mod-id = "EWmBPx3X"
+version = "gp2GmHYK"

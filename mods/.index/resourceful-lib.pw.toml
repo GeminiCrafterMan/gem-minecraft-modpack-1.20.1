@@ -1,0 +1,14 @@
+name = "Resourceful Lib"
+filename = "resourcefullib-forge-1.20.1-2.1.11.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/G1hIVOrD/versions/BSonoRxL/resourcefullib-forge-1.20.1-2.1.11.jar"
+hash-format = "sha512"
+hash = "9749c7404e34d5b6585f4031f39d9b3a534663b4182b3567b054485995b60e59a8952ff28cda4ee654516764526ca63f3072d92e2976096bcbfdd70de09ca5b5"
+
+[update]
+[update.modrinth]
+mod-id = "G1hIVOrD"
+version = "BSonoRxL"

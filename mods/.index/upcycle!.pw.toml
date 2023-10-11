@@ -1,0 +1,14 @@
+name = "Upcycle! (Compost Rotten Flesh!)"
+filename = "Upcycle-1.20.x-(v.1.1.0).jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/MiQPF2hD/versions/hThHwFZk/Upcycle-1.20.x-%28v.1.1.0%29.jar"
+hash-format = "sha512"
+hash = "3e668b8f6edd59a33fb30da6af4896304e04da548070ed9d2206198e2204ea24b2cb2dbbf2ce530f8b32fda8660b964a24837eded19125beb8c6e0a665b23cc2"
+
+[update]
+[update.modrinth]
+mod-id = "MiQPF2hD"
+version = "hThHwFZk"

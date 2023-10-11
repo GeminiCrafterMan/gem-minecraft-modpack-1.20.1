@@ -1,0 +1,14 @@
+name = "Potion Bundles"
+filename = "potionbundles-1.20-1.7.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/ZZLWU8jS/versions/Xvx6S6PJ/potionbundles-1.20-1.7.jar"
+hash-format = "sha512"
+hash = "0fff4470419619c0c819091a99095ca9c22a35589afbb21a31d5ef12ed5afeb827a5b7a42e09cc7c25a4cf4ccf705f75769dd0ee6ef4d2f53069dfdd86ecc938"
+
+[update]
+[update.modrinth]
+mod-id = "ZZLWU8jS"
+version = "Xvx6S6PJ"

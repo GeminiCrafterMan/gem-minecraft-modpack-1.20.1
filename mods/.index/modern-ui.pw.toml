@@ -1,0 +1,14 @@
+name = "Modern UI"
+filename = "ModernUI-Forge-1.20.1-3.8.2.4-universal.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/3sjzyvGR/versions/ioOc5pHO/ModernUI-Forge-1.20.1-3.8.2.4-universal.jar"
+hash-format = "sha512"
+hash = "e1a11d7e9514641b04d0b9748bc1a5470e9150cd9eac8ab9686f22fa21740be3b04d4dd1f74f916966c76700d39ca7b4bdc5a150934e2535df80cb9b9ba523a8"
+
+[update]
+[update.modrinth]
+mod-id = "3sjzyvGR"
+version = "ioOc5pHO"

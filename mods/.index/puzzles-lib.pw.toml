@@ -1,0 +1,14 @@
+name = "Puzzles Lib"
+filename = "PuzzlesLib-v8.0.24-1.20.1-Forge.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/QAGBst4M/versions/Sk64RP7y/PuzzlesLib-v8.0.24-1.20.1-Forge.jar"
+hash-format = "sha512"
+hash = "8fcdde2cd88f8756298a07b314701e6c66d3af13d5b3a06168d11fcd166adb64ce2412e3c8087332bffa66542589ca3ca7f2c73b2fc281612684172eab8a5f4e"
+
+[update]
+[update.modrinth]
+mod-id = "QAGBst4M"
+version = "Sk64RP7y"

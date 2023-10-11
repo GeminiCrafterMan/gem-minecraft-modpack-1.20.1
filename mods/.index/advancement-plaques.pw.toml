@@ -1,0 +1,14 @@
+name = "Advancement Plaques"
+filename = "AdvancementPlaques-1.20.1-forge-1.4.10.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/9NM0dXub/versions/tim1GaS3/AdvancementPlaques-1.20.1-forge-1.4.10.jar"
+hash-format = "sha512"
+hash = "51fb48e6b9ac64f96f0095f99540c70e873c2089537d5bae2ec5d98d265d20f0bff5c33d60ff117d69f5df56a6a1e97eccf2732b27bf66727ec9c3268095ccf9"
+
+[update]
+[update.modrinth]
+mod-id = "9NM0dXub"
+version = "tim1GaS3"

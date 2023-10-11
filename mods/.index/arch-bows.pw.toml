@@ -1,0 +1,14 @@
+name = "Arch Bows"
+filename = "archbows-1.1.8-1.20.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/64a2C8ie/versions/oDMFWYX1/archbows-1.1.8-1.20.1.jar"
+hash-format = "sha512"
+hash = "b484350fc1407cdeefbaa48c9e0541738e0bfa0b6ad03ef2814a6f194e5d5fd78efbd0470776e2260acb65a132deeb7b3e7f029ccb3f8b6d5562cfb307270082"
+
+[update]
+[update.modrinth]
+mod-id = "64a2C8ie"
+version = "oDMFWYX1"

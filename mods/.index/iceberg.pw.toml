@@ -1,0 +1,14 @@
+name = "Iceberg"
+filename = "Iceberg-1.20.1-forge-1.1.15.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/5faXoLqX/versions/D2tqnVgT/Iceberg-1.20.1-forge-1.1.15.jar"
+hash-format = "sha512"
+hash = "116dc5ceb5720ed9c8be4f34c71f15d7b02cff768014d2a24c15e06bf4aaf43caa42254f187979bc10928a5b47331ccbbf3b23cf05a13dc69392e44bf7538964"
+
+[update]
+[update.modrinth]
+mod-id = "5faXoLqX"
+version = "D2tqnVgT"

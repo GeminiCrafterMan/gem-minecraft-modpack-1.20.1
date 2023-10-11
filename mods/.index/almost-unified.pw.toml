@@ -1,0 +1,14 @@
+name = "Almost Unified"
+filename = "almostunified-forge-1.20.1-0.7.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/sdaSaQEz/versions/MoAvkrMK/almostunified-forge-1.20.1-0.7.0.jar"
+hash-format = "sha512"
+hash = "38c66b5c0c29a5e8c40714ae0ce30e317d70a31b649a7bc9cb63a0112a5e8d91dc1b02a098b5a64a2e5c10011070c98fa43a775a2c2fda3dcaf26f77f57627b6"
+
+[update]
+[update.modrinth]
+mod-id = "sdaSaQEz"
+version = "MoAvkrMK"

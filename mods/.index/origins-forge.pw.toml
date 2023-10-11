@@ -1,0 +1,14 @@
+name = "Origins (Forge)"
+filename = "origins-forge-1.20.1-1.10.0.2-all.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/jl3m2lR9/versions/DIZ6QSen/origins-forge-1.20.1-1.10.0.2-all.jar"
+hash-format = "sha512"
+hash = "1354c2816f361e656f0ee7943ac7e3f3d55ba18cf06798264dfc56b63ef40d5ef66ae5815dd533d6a8d6ff59ae21ff42036a2b0ded751e54c1b75c3864e21374"
+
+[update]
+[update.modrinth]
+mod-id = "jl3m2lR9"
+version = "DIZ6QSen"

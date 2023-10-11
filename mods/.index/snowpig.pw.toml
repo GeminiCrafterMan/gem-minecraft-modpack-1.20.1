@@ -1,0 +1,14 @@
+name = "Snow Pig [Forge]"
+filename = "snowpig-1.20.1-6.0.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/CJ0YrpAC/versions/DWhjkrlG/snowpig-1.20.1-6.0.2.jar"
+hash-format = "sha512"
+hash = "c0848dcfb44de597a87afafb832eeb5724ac7c8426dd16a933edb436d58592d0a7efb49fc0c0950b7667fab25bfddf7f00619224ff447a8af5980f6141d38c9a"
+
+[update]
+[update.modrinth]
+mod-id = "CJ0YrpAC"
+version = "DWhjkrlG"

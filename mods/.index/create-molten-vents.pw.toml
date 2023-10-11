@@ -1,0 +1,14 @@
+name = "Create: Molten Vents"
+filename = "molten_vents-1.20.1-2.0.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/uuVy6k1s/versions/4LjNrYMO/molten_vents-1.20.1-2.0.2.jar"
+hash-format = "sha512"
+hash = "e5a32a4be2bc9715fe34e125f77ed9ac304fb5b5103aad8fab901941945f006f84fbbcf36aa9ffae96df92d710e6c2900f88cbf10cdb951cd37bded66ab89a21"
+
+[update]
+[update.modrinth]
+mod-id = "uuVy6k1s"
+version = "4LjNrYMO"

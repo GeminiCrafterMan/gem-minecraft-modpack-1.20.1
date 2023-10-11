@@ -1,0 +1,14 @@
+name = "More Chests Variants - Biomes O' Plenty (MCV)"
+filename = "MCV-BiomesOPlenty-1.0.0+1.20.2-Forge.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "12f3b84c095431760059d056586e8c5a2327e22b"
+
+[update]
+[update.curseforge]
+file-id = 4774216
+project-id = 917744

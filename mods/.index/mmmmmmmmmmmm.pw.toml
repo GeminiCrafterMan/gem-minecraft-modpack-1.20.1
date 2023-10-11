@@ -1,0 +1,14 @@
+name = "MmmMmmMmmMmm"
+filename = "dummmmmmy-1.20-1.8.3.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/Adega8YN/versions/owOKOJTn/dummmmmmy-1.20-1.8.3.jar"
+hash-format = "sha512"
+hash = "be16ad25b0d267d034e7b3b4fdb107dc362bbfa7119711be54ba6150ccde1a581f475187888fba3ab0b8b8bd1e4c2047cb1499f1895d52617ed7f50ad3374016"
+
+[update]
+[update.modrinth]
+mod-id = "Adega8YN"
+version = "owOKOJTn"

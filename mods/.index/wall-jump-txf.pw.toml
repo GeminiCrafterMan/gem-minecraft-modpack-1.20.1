@@ -1,0 +1,14 @@
+name = "Wall-Jump TXF (Forge)"
+filename = "walljump-1.20.1-1.0.1-forge.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/oUoetxfR/versions/nvIQs6TG/walljump-1.20.1-1.0.1-forge.jar"
+hash-format = "sha512"
+hash = "84aa0382d68bb825954db1010088aaeba0cfe6a89f24505064e67f30eab7b00ace2505e3f07485cd00c5a9dafca1560b2f646684748cf8af6f24e988d03ee8a9"
+
+[update]
+[update.modrinth]
+mod-id = "oUoetxfR"
+version = "nvIQs6TG"

@@ -1,0 +1,14 @@
+name = "AttributeFix"
+filename = "AttributeFix-Forge-1.20.1-21.0.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/lOOpEntO/versions/Y09GwS1A/AttributeFix-Forge-1.20.1-21.0.2.jar"
+hash-format = "sha512"
+hash = "eb54a686ebecf591defe90cc61d4011f416aed727472281c05aa0cf6fe432c1cdba7fc425539f784b1cf197ad5dbffcf68642945ae461eada8f09d7ed0e8e2bc"
+
+[update]
+[update.modrinth]
+mod-id = "lOOpEntO"
+version = "Y09GwS1A"

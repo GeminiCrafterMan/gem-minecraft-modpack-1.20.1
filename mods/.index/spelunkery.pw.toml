@@ -1,0 +1,14 @@
+name = "Spelunkery"
+filename = "spelunkery-1.20.1-0.3.4-forge.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/krskFMfA/versions/HUCZ7gFC/spelunkery-1.20.1-0.3.4-forge.jar"
+hash-format = "sha512"
+hash = "a51d936718639e54259d88ed4c5d5501c7aa89dc01825647b21ed80733c22bc3dc57fdd664634a080fae2b4783729c73661fdcc8dc230dbf911ab4b5fcbbc502"
+
+[update]
+[update.modrinth]
+mod-id = "krskFMfA"
+version = "HUCZ7gFC"

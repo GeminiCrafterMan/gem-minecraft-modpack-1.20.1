@@ -1,0 +1,14 @@
+name = "Compress It!"
+filename = "Compress-It-2.5.0-1.20.x-forge.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/K44jnDZh/versions/A6S0roTD/Compress-It-2.5.0-1.20.x-forge.jar"
+hash-format = "sha512"
+hash = "dc85c41faa3d48971f1e79c74ea0e8f083038a60ec2743aa35829c0c35aed3d75c39971e67b61774ce107db66d643789287e28e3f66c7fa8d518a8089ea824b7"
+
+[update]
+[update.modrinth]
+mod-id = "K44jnDZh"
+version = "A6S0roTD"

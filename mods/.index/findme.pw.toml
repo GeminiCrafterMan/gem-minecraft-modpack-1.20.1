@@ -1,0 +1,14 @@
+name = "FindMe"
+filename = "findme-3.1.0-forge.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/rEuzehyH/versions/RQS52rEU/findme-3.1.0-forge.jar"
+hash-format = "sha512"
+hash = "bd20fb195f23001d82ea69213b3d24213527be474c3289fb335d651318d69bb082eceb63d588a841ba1ba7072d6e7bafabe3456a763b564cc5744af372aa0dea"
+
+[update]
+[update.modrinth]
+mod-id = "rEuzehyH"
+version = "RQS52rEU"

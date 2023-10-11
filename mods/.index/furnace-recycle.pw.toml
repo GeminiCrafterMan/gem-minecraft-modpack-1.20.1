@@ -1,0 +1,14 @@
+name = "Furnace Recycle"
+filename = "furnacerecycle-1.20.1-2.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/HyKmtI3L/versions/2lrmBUgV/furnacerecycle-1.20.1-2.0.jar"
+hash-format = "sha512"
+hash = "4bd54f2e4caff975bc36aff6483ac53a13ccca08a58588ce0339d1c4dd097c3f26c93c1b3e4334e15303f4d688c6e7410ce74b997e502717d26acdde85e02cf9"
+
+[update]
+[update.modrinth]
+mod-id = "HyKmtI3L"
+version = "2lrmBUgV"

@@ -1,0 +1,14 @@
+name = "Axes Are Weapons"
+filename = "AxesAreWeapons-1.7.1-forge-1.19.3.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/1jvt7RTc/versions/iCkSlbkn/AxesAreWeapons-1.7.1-forge-1.19.3.jar"
+hash-format = "sha512"
+hash = "221b057d76803b52d91e5334869a042711cd73a8a2e17abd8be8e370e400e002d28431fe08fe7725c82e10c87b6412e746cb90348f01ac8c60cc19b3e54a69ae"
+
+[update]
+[update.modrinth]
+mod-id = "1jvt7RTc"
+version = "iCkSlbkn"

@@ -1,0 +1,14 @@
+name = "Elytra Skins"
+filename = "elytras-forge-1.20.1-2.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/u7f4Km0c/versions/uPJLbv02/elytras-forge-1.20.1-2.0.jar"
+hash-format = "sha512"
+hash = "e3ca90763fc6f013580115b283b34e2163eba9e01ad4ad30ef4dd2feb0fffcf195a444bec362e8246b4269df72c447810b795d01eb98fd3844bb66b8e29c1fe8"
+
+[update]
+[update.modrinth]
+mod-id = "u7f4Km0c"
+version = "uPJLbv02"

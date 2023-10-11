@@ -1,0 +1,14 @@
+name = "Better Totem of Undying"
+filename = "BetterTotemOfUndying-Forge-1.20.1-1.1.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/qRwFcI3W/versions/Xwfwo8ay/BetterTotemOfUndying-Forge-1.20.1-1.1.0.jar"
+hash-format = "sha512"
+hash = "330027f408be328c8013980f5ed30c495f08fd0d41e484a08350e0f84f0680e929de2f4a98f0d041612c1db3c50612c6f62279babbb4a9fa5574dc9a4c23d3d0"
+
+[update]
+[update.modrinth]
+mod-id = "qRwFcI3W"
+version = "Xwfwo8ay"

@@ -1,0 +1,14 @@
+name = "Panorama Creator"
+filename = "spanorama-1.5.1.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "83d16a5c0c5774ab4841f2d9858b7754f16e30e0"
+
+[update]
+[update.curseforge]
+file-id = 3913967
+project-id = 366866

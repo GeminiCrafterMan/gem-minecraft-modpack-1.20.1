@@ -1,0 +1,14 @@
+name = "Chiseled Bookshelves Add Enchantment Power [PurpurPack]"
+filename = "purpurpacks-chiseled-bookshelves-add-enchantment-power-1.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/504BLPX7/versions/JwwnJd8C/purpurpacks-chiseled-bookshelves-add-enchantment-power-1.2.jar"
+hash-format = "sha512"
+hash = "aefc6d560fd9cad0701a4d66c29748cb262b59e18faac06f1715abdd0b540f19995a77a9c1d28038c3e1e54d6d1528cb29c2fca6acc7134582943f4b74e63c70"
+
+[update]
+[update.modrinth]
+mod-id = "504BLPX7"
+version = "JwwnJd8C"

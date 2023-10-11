@@ -1,0 +1,14 @@
+name = "MultiBeds"
+filename = "multibeds-forge-1.20.1-1.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/JyytxgF6/versions/M4QEKsOv/multibeds-forge-1.20.1-1.1.jar"
+hash-format = "sha512"
+hash = "6fff7a1ed2fd79b632cb7b0b384a0e45473fd250519fb545ab8ab693fdb06befc60d51a6ea083bbea5d4f0bae37172c7d47504c854192f495f06222ea262655e"
+
+[update]
+[update.modrinth]
+mod-id = "JyytxgF6"
+version = "M4QEKsOv"

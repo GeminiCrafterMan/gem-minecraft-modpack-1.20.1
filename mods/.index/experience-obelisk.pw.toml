@@ -1,0 +1,14 @@
+name = "Experience Obelisk"
+filename = "experienceobelisk-v1.4.8-1.20.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/9GdSY2FZ/versions/jdC3YbJt/experienceobelisk-v1.4.8-1.20.1.jar"
+hash-format = "sha512"
+hash = "aa75d0e4ab56a150011a8050b138de0c8d0ad7705a12ded53c933187758e6586136761414a6d8b7236b8852d44ff4364dded9b5e90dc9f88b16164ea8d55a71b"
+
+[update]
+[update.modrinth]
+mod-id = "9GdSY2FZ"
+version = "jdC3YbJt"

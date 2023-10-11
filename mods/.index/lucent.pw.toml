@@ -1,0 +1,14 @@
+name = "Lucent"
+filename = "lucent-1.20.1-1.5.4.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/JE0fgMUp/versions/rPjeK8Wl/lucent-1.20.1-1.5.4.jar"
+hash-format = "sha512"
+hash = "f410f36136a7b2e262eec21acf1b939c0a600ba9aff67882a0a65f4d8f41d45c0e0f69f8170518fefca860e0f0aebd4b829da0452bedcc09f27013df6bea972d"
+
+[update]
+[update.modrinth]
+mod-id = "JE0fgMUp"
+version = "rPjeK8Wl"
