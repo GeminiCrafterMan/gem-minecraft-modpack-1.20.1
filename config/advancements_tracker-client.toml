@@ -34,6 +34,6 @@
 	logLevel = "info"
 
 [cache]
-	trackedAdvancementsRemote = [""]
+	trackedAdvancementsRemote = ["Local_server:763::multiverse:world_hopper"]
 	trackedAdvancementsLocal = [""]
 
